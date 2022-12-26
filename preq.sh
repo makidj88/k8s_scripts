@@ -87,7 +87,7 @@ echo " ---------------"
 echo " Updating system"
 echo " ---------------"
 
-sudo apt update
+sudo apt update -y
 
 sleep 2 & spinner
 
